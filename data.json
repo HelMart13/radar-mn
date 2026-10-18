@@ -1,0 +1,238 @@
+{
+ "updated": "2026-10-18",
+ "edition": "Semana 42 · 2026",
+ "guidelines": [
+  {
+   "id": "vq-2026",
+   "title": "Procedure Standard/Guideline para cintigrafia de ventilação–perfusão pulmonar",
+   "orig": "SNMMI/EANM/ACNM/ANZSNM Procedure Standard/Procedure Guideline for Ventilation–Perfusion Pulmonary Scintigraphy",
+   "societies": "SNMMI · EANM · ACNM · ANZSNM",
+   "journal": "J Nucl Med Technol",
+   "date": "2026-09-22",
+   "topic": "Pulmão · TEP",
+   "authors": "Roach PJ, Bailey DL, Currie GM, et al.",
+   "doi": "10.2967/jnmt.126.273453",
+   "url": "https://tech.snmjournals.org/content/early/2026/09/22/jnmt.126.273453",
+   "pdf": "https://tech.snmjournals.org/content/jnmt/early/2026/09/22/jnmt.126.273453.full.pdf",
+   "oa": true,
+   "summary": "Atualização conjunta que cobre V/Q, ventilação isolada e perfusão isolada. A indicação principal continua a ser a suspeita de TEP aguda, subaguda ou recorrente; inclui também rastreio de HPTEC, avaliação pré e pós-operatória e doença obstrutiva das vias aéreas. A SPECT passa a ser a técnica preferida, com SPECT/CT de baixa dose (cerca de 1–2 mSv) para correção de atenuação e para explicar defeitos não embólicos.",
+   "points": [
+    "Technegas é o agente de ventilação preferido quando disponível; usar até 10 min após a geração. DTPA em aerossol é menos adequado para SPECT.",
+    "SPECT: colimador LEHR, matriz 128×128, 120 projeções. Planares: 6–8 projeções.",
+    "Interpretação pelos critérios trinários da EANM (positivo / negativo / não diagnóstico): positivo com ≥1 segmento ou 2 subsegmentos com mismatch de padrão vascular; um só mismatch subsegmentar pequeno = negativo.",
+    "Não usar relatório probabilístico em SPECT (não validado).",
+    "Gravidez: reduzir atividade, mas manter ≥100 000 partículas na perfusão; omitir a ventilação é uma opção, sobretudo no 1.º trimestre.",
+    "Carga embólica pode ser quantificada em % do parênquima pulmonar."
+   ],
+   "previous": {
+    "title": "SNMMI Procedure Guideline for Lung Scintigraphy 4.0 (2012)",
+    "year": "2012"
+   },
+   "changes": [
+    {
+     "area": "Técnica de imagem",
+     "before": "Planares como base; SPECT opcional",
+     "now": "SPECT preferida; SPECT/CT de baixa dose recomendada"
+    },
+    {
+     "area": "Critérios de leitura",
+     "before": "Categorias probabilísticas (PIOPED II modificado / PISAPED)",
+     "now": "Critérios trinários da EANM; sem relatório probabilístico em SPECT"
+    },
+    {
+     "area": "Ventilação",
+     "before": "Xe-133 ou DTPA em aerossol (Technegas ainda sem aprovação nos EUA)",
+     "now": "Technegas preferido; DTPA desaconselhado para SPECT"
+    },
+    {
+     "area": "Sociedades",
+     "before": "Só SNMMI",
+     "now": "Documento conjunto SNMMI, EANM, ACNM e ANZSNM"
+    }
+   ],
+   "changesNote": "Comparação feita com a versão SNMMI de 2012 citada no próprio documento. A EANM tinha uma guideline própria de V/Q (2019), que já usava critérios trinários e SPECT."
+  },
+  {
+   "id": "lvv-2026",
+   "title": "Guideline atualizada: [18F]FDG-PET/CT(A) na vasculite de grandes vasos e polimialgia reumática",
+   "orig": "Updated procedural guideline/procedure standard [18F]FDG-PET/CT(A) in large vessel vasculitis and polymyalgia rheumatica",
+   "societies": "EANM · SNMMI · ASNC · CANM · ANZSNM · CSNM",
+   "journal": "EANM Journal",
+   "date": "2026-09",
+   "topic": "Inflamação · Vasculite",
+   "authors": "Slart R, van der Geest N, Treglia G, et al.",
+   "doi": "10.1016/j.eanmj.2026.100243",
+   "url": "https://doi.org/10.1016/j.eanmj.2026.100243",
+   "pdf": "",
+   "oa": false,
+   "summary": "Atualização da recomendação conjunta de 2018 sobre FDG-PET/CT(A) em vasculite de grandes vasos (ACG, Takayasu) e polimialgia reumática, agora assinada por seis sociedades. O texto integral não ficou acessível a partir daqui, por isso o resumo das alterações fica pendente até eu conseguir ler o artigo completo.",
+   "points": [
+    "Mantém o âmbito: preparação, aquisição, leitura visual e relatório em LVV e PMR.",
+    "Abre o documento à cardiologia nuclear (ASNC) e às sociedades canadiana, australiana/neozelandesa e chinesa."
+   ],
+   "previous": {
+    "title": "Joint EANM/SNMMI/PIG procedural recommendation, endossada pela ASNC (2018)",
+    "year": "2018"
+   },
+   "previousRecap": [
+    "Jejum ≥6 h, glicemia <7 mmol/L, ≥60 min de captação (90–120 min a avaliar).",
+    "Na suspeita de ACG com envolvimento craniano/ocular não atrasar corticoides; PET até 3 dias após o início é aceitável.",
+    "Escala visual 0–3 vs fígado (2 = possivelmente positivo, 3 = positivo); score vascular total 0–21 em 7 territórios.",
+    "PMR: graduar ombros, ancas, bursas trocantéricas/isquiáticas e regiões interespinhosas com a mesma escala.",
+    "SUV simples não recomendado para diagnóstico; razões alvo/pool sanguíneo para investigação."
+   ],
+   "changes": [],
+   "changesNote": "Diferenças por confirmar: não consegui ler o texto integral (acesso bloqueado). Em baixo fica o resumo da versão de 2018 para comparares ao abrir o artigo."
+  },
+  {
+   "id": "tau-2026",
+   "title": "Recomendações conjuntas EANM/SNMMI sobre PET de tau na doença de Alzheimer",
+   "orig": "Joint EANM/SNMMI recommendations on the use of Tau PET imaging in Alzheimer's disease",
+   "societies": "EANM · SNMMI",
+   "journal": "EANM Journal",
+   "date": "2026",
+   "topic": "Neuro · Demência",
+   "authors": "Brendel M, Kuo PH, Brumberg J, et al.",
+   "doi": "10.1016/j.eanmj.2026.100214",
+   "url": "https://doi.org/10.1016/j.eanmj.2026.100214",
+   "pdf": "",
+   "oa": false,
+   "summary": "Primeiro documento conjunto EANM/SNMMI dedicado à PET de tau na doença de Alzheimer. O texto integral não ficou acessível daqui; o resumo detalhado fica pendente.",
+   "points": [],
+   "previous": null,
+   "changes": [],
+   "changesNote": "Primeira recomendação sobre o tema: não há versão anterior para comparar."
+  }
+ ],
+ "lymphoma": [
+  {
+   "id": "jnm-uld-hl-pregnancy",
+   "title": "PET-FDG de dose ultrabaixa em LAFOV, sem CT para correção de atenuação, no estadiamento do linfoma de Hodgkin na gravidez",
+   "orig": "Ultra-Low-Dose Long–Axial-Field-of-View [18F]FDG PET with CT-Free Attenuation Correction for Staging Hodgkin Lymphoma in Pregnancy",
+   "journal": "J Nucl Med",
+   "date": "2026-10-15",
+   "type": "Estudo clínico",
+   "authors": "Huang HL, Tan JY, Yang Y, et al.",
+   "doi": "10.2967/jnumed.126.273066",
+   "url": "https://jnm.snmjournals.org/content/early/2026/10/15/jnumed.126.273066",
+   "pdf": "https://jnm.snmjournals.org/content/jnumed/early/2026/10/15/jnumed.126.273066.full.pdf",
+   "oa": false,
+   "summary": "Publicado esta semana. Propõe estadiar o linfoma de Hodgkin na grávida com PET de campo axial longo, atividade ultrabaixa de FDG e correção de atenuação sem CT, para minimizar a dose fetal. O resumo completo está atrás de paywall; o PDF abre com acesso institucional.",
+   "points": [
+    "O linfoma de Hodgkin complica cerca de 1 em cada 3000 gravidezes.",
+    "Interesse direto para protocolos de grávidas em scanners LAFOV."
+   ]
+  },
+  {
+   "id": "ejnmmi-bsab",
+   "title": "Valor prognóstico da PET-FDG no LBCL em recaída/refratário tratado com anticorpos biespecíficos CD3×CD20",
+   "orig": "Prognostic role of FDG-PET in patients with relapsed/refractory large B-cell lymphoma treated with CD3-CD20 directed bispecific antibodies: a multicentric analysis",
+   "journal": "Eur J Nucl Med Mol Imaging",
+   "date": "2026-06-01",
+   "type": "Retrospetivo multicêntrico",
+   "authors": "Wollnitza S, Ventura D, Teichert M, et al.",
+   "doi": "10.1007/s00259-026-07958-4",
+   "url": "https://link.springer.com/article/10.1007/s00259-026-07958-4",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00259-026-07958-4.pdf",
+   "oa": true,
+   "summary": "Quatro centros universitários (Alemanha e Suíça), 58 doentes com PET basal e 45 com primeira PET após início de glofitamab/epcoritamab. Tanto o volume tumoral basal como a resposta na primeira PET separaram doentes de alto risco.",
+   "points": [
+    "MTV basal >504,7 cm³: PFS mediana 1 vs 3 meses (HR 5,6; p=0,00025).",
+    "MTV basal >39,1 cm³ associou-se a pior sobrevivência global (HR 2,52).",
+    "Primeira PET com Deauville 4–5 (76%): HR de progressão 11,4.",
+    "Queda de SUVmean <75,5%: HR 7,65 para progressão e 11,1 para morte.",
+    "Amostra pequena e retrospetiva; os autores pedem validação prospetiva."
+   ]
+  },
+  {
+   "id": "ejnmmi-cnn-tmtv",
+   "title": "Rede neuronal convolucional para delimitação automática do TMTV no linfoma não Hodgkin agressivo",
+   "orig": "A convolutional neural network for fully automated total metabolic tumor volume delineation in patients with aggressive Non-Hodgkin lymphoma",
+   "journal": "Eur J Nucl Med Mol Imaging",
+   "date": "2026",
+   "type": "IA · Desenvolvimento e validação",
+   "authors": "Nikulin P, Hoberück S, Apostolova I, et al.",
+   "doi": "10.1007/s00259-026-07810-9",
+   "url": "https://link.springer.com/article/10.1007/s00259-026-07810-9",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00259-026-07810-9.pdf",
+   "oa": true,
+   "summary": "nnU-Net treinada em 1192 PET/CT de 716 doentes (sobretudo ensaio PETAL), com validação cruzada e num benchmark externo de 60 exames. Boa concordância com a delimitação manual no conjunto principal, mais fraca no externo.",
+   "points": [
+    "Dice 0,895 (externo 0,715); R² do TMTV 0,974 (externo 0,767).",
+    "Sensibilidade por lesão 71% e VPP 84%; lesões <1 ml mal detetadas (56%).",
+    "TMTV automático e manual com valor prognóstico idêntico para PFS (HR 3,7 vs 3,5); risco reclassificado em só 3,6%.",
+    "178 de 485 exames sem captação patológica tiveram falsos positivos: uso apenas supervisionado."
+   ]
+  },
+  {
+   "id": "jnm-mtv-cart",
+   "title": "Volume tumoral metabólico prediz melhor a PFS após CAR-T no LBCL do que o IPI",
+   "orig": "Risk assessment in large B-cell lymphoma using metabolic tumor volume before CAR T-cell therapy (multicentre)",
+   "journal": "J Nucl Med",
+   "date": "2026-03-19",
+   "type": "Multicêntrico",
+   "authors": "Voltin CA, et al.",
+   "doi": "",
+   "url": "https://jnm.snmjournals.org/content/early/2026/03/19/jnumed.125.271976",
+   "pdf": "",
+   "oa": false,
+   "summary": "111 doentes de cinco hospitais universitários alemães e um italiano, com PET antes de tisa-cel ou axi-cel; MTV delimitado com limiar fixo SUV 4,0.",
+   "points": [
+    "PFS: AUC 0,68 para o MTV vs 0,61 para o IPI.",
+    "Juntar o envolvimento extranodal ao MTV não melhorou o modelo.",
+    "Sugere bridging citorredutor em doentes com grande carga tumoral."
+   ]
+  },
+  {
+   "id": "ejnmmi-ultralate",
+   "title": "Cinética alargada da FDG no linfoma com PET/CT LAFOV ultratardia (1, 3 e 6 h)",
+   "orig": "Exploring extended [18F]FDG kinetics in lymphoma with ultra-late LAFOV-PET/CT",
+   "journal": "Eur J Nucl Med Mol Imaging",
+   "date": "2026-02",
+   "type": "Prospetivo, unicêntrico",
+   "authors": "Weissinger M, Ursprung S, Jacoby J, et al.",
+   "doi": "10.1007/s00259-026-07774-w",
+   "url": "https://link.springer.com/article/10.1007/s00259-026-07774-w",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00259-026-07774-w.pdf",
+   "oa": true,
+   "summary": "15 doentes sem tratamento prévio estudados num Biograph Vision Quadra a 1, 3 e 6 h. As imagens mantiveram-se diagnósticas até às 6 h e a cinética diferiu entre graus histológicos.",
+   "points": [
+    "Razão tumor/fundo: 4,1 (1 h) → 12,5 (3 h) → 23,9 (6 h).",
+    "Alto grau: subida quase linear; baixo grau: pico às 3 h e descida às 6 h.",
+    "Gânglios benignos com índice de retenção negativo.",
+    "Imagem às 3 h melhora o contraste para estadiamento; dados preliminares."
+   ]
+  },
+  {
+   "id": "ejnmmi-cart-consensus",
+   "title": "Identificação precoce guiada por PET de candidatos a CAR-T no DLBCL: consenso multidisciplinar",
+   "orig": "PET-guided early identification of CAR-T candidates in diffuse large B-cell lymphoma: a multidisciplinary expert consensus",
+   "journal": "Eur J Nucl Med Mol Imaging",
+   "date": "2026",
+   "type": "Consenso de peritos",
+   "authors": "",
+   "doi": "10.1007/s00259-026-07999-9",
+   "url": "https://link.springer.com/article/10.1007/s00259-026-07999-9",
+   "pdf": "",
+   "oa": false,
+   "summary": "Consenso sobre o uso da PET para identificar cedo os doentes com DLBCL que vão precisar de CAR-T. O texto não ficou acessível nesta pesquisa; resumo pendente.",
+   "points": []
+  },
+  {
+   "id": "ejnmmi-chl-baseline",
+   "title": "Valor preditivo e prognóstico de métricas volumétricas e de disseminação na PET basal do linfoma de Hodgkin clássico",
+   "orig": "The predictive and prognostic role of baseline 2-[18F]FDG PET/CT volumetric and dissemination features in classical Hodgkin lymphoma",
+   "journal": "Eur J Nucl Med Mol Imaging",
+   "date": "2026",
+   "type": "Coorte",
+   "authors": "",
+   "doi": "10.1007/s00259-026-07862-x",
+   "url": "https://link.springer.com/article/10.1007/s00259-026-07862-x",
+   "pdf": "",
+   "oa": false,
+   "summary": "Avalia MTV, TLG e métricas de disseminação (tipo Dmax) na PET basal do LH clássico. O texto não ficou acessível nesta pesquisa; resumo pendente.",
+   "points": []
+  }
+ ],
+ "stamp": "2026-10-18T10:45"
+}
