@@ -166,6 +166,24 @@
    ]
   },
   {
+   "id": "jnm-uld-hl-pregnancy",
+   "title": "PET-FDG de dose ultrabaixa em LAFOV, sem CT para correção de atenuação, no estadiamento do linfoma de Hodgkin na gravidez",
+   "orig": "Ultra-Low-Dose Long–Axial-Field-of-View [18F]FDG PET with CT-Free Attenuation Correction for Staging Hodgkin Lymphoma in Pregnancy",
+   "journal": "J Nucl Med",
+   "date": "2026-10-15",
+   "type": "Estudo clínico",
+   "authors": "Huang HL, Tan JY, Yang Y, et al.",
+   "doi": "10.2967/jnumed.126.273066",
+   "url": "https://jnm.snmjournals.org/content/early/2026/10/15/jnumed.126.273066",
+   "pdf": "https://jnm.snmjournals.org/content/jnumed/early/2026/10/15/jnumed.126.273066.full.pdf",
+   "oa": false,
+   "summary": "Publicado online a 15-10-2026. Propõe estadiar o linfoma de Hodgkin na grávida com PET de campo axial longo, atividade ultrabaixa de FDG e correção de atenuação sem CT, para minimizar a dose fetal. O artigo está atrás de paywall e o PubMed não tem resumo; o PDF abre com acesso institucional.",
+   "points": [
+    "O linfoma de Hodgkin complica cerca de 1 em cada 3000 gravidezes.",
+    "Interesse direto para protocolos de grávidas em scanners LAFOV."
+   ]
+  },
+  {
    "id": "cancers-cally-ipet-hl",
    "title": "Índice CALLY e PET interina num modelo prognóstico integrado do linfoma de Hodgkin",
    "orig": "Integrated Prognostic Modelling with the CALLY Index and Interim PET/CT in Hodgkin Lymphoma",
@@ -264,21 +282,23 @@
    ]
   },
   {
-   "id": "jnm-uld-hl-pregnancy",
-   "title": "PET-FDG de dose ultrabaixa em LAFOV, sem CT para correção de atenuação, no estadiamento do linfoma de Hodgkin na gravidez",
-   "orig": "Ultra-Low-Dose Long–Axial-Field-of-View [18F]FDG PET with CT-Free Attenuation Correction for Staging Hodgkin Lymphoma in Pregnancy",
-   "journal": "J Nucl Med",
-   "date": "2026-10-15",
-   "type": "Estudo clínico",
-   "authors": "Huang HL, Tan JY, Yang Y, et al.",
-   "doi": "10.2967/jnumed.126.273066",
-   "url": "https://jnm.snmjournals.org/content/early/2026/10/15/jnumed.126.273066",
-   "pdf": "https://jnm.snmjournals.org/content/jnumed/early/2026/10/15/jnumed.126.273066.full.pdf",
-   "oa": false,
-   "summary": "Publicado online a 15-10-2026. Propõe estadiar o linfoma de Hodgkin na grávida com PET de campo axial longo, atividade ultrabaixa de FDG e correção de atenuação sem CT, para minimizar a dose fetal. O artigo está atrás de paywall e o PubMed não tem resumo; o PDF abre com acesso institucional.",
+   "id": "ejnmmi-cart-consensus",
+   "title": "Identificação precoce guiada por PET de candidatos a CAR-T no DLBCL: consenso multidisciplinar",
+   "orig": "PET-guided early identification of CAR-T candidates in diffuse large B-cell lymphoma: a multidisciplinary expert consensus",
+   "journal": "Eur J Nucl Med Mol Imaging",
+   "date": "2026-06-26",
+   "type": "Consenso de peritos",
+   "authors": "Guerra L, Albano D, Angelillo P, et al.; Zinzani PL",
+   "doi": "10.1007/s00259-026-07999-9",
+   "url": "https://link.springer.com/article/10.1007/s00259-026-07999-9",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00259-026-07999-9.pdf",
+   "oa": true,
+   "summary": "Painel italiano de Medicina Nuclear e Hematologia definiu como integrar a PET-FDG no percurso do DLBCL para identificar cedo quem poderá precisar de CAR-T. A PET é considerada biomarcador central em todas as fases e a uniformização de aquisição e relatório é apontada como condição para a aplicar na prática.",
    "points": [
-    "O linfoma de Hodgkin complica cerca de 1 em cada 3000 gravidezes.",
-    "Interesse direto para protocolos de grávidas em scanners LAFOV."
+    "PET basal: métricas quantitativas como o MTV estratificam melhor do que os índices clínicos convencionais.",
+    "PET interina: Deauville e ΔSUVmax permitem reconhecer cedo doentes de alto risco ou refratários e referenciá-los a tempo.",
+    "PET de fim de tratamento continua essencial para a decisão terapêutica.",
+    "Publicado em EJNMMI 2026;53(12):6800–6812 (online 26-06-2026)."
    ]
   },
   {
@@ -300,6 +320,25 @@
     "Primeira PET com Deauville 4–5 (76%): HR de progressão 11,4.",
     "Queda de SUVmean <75,5%: HR 7,65 para progressão e 11,1 para morte.",
     "Amostra pequena e retrospetiva; os autores pedem validação prospetiva."
+   ]
+  },
+  {
+   "id": "ejnmmi-chl-baseline",
+   "title": "Valor preditivo e prognóstico de métricas volumétricas e de disseminação na PET basal do linfoma de Hodgkin clássico",
+   "orig": "The predictive and prognostic role of baseline 2-[18F]FDG PET/CT volumetric and dissemination features in classical Hodgkin lymphoma",
+   "journal": "Eur J Nucl Med Mol Imaging",
+   "date": "2026-03-25",
+   "type": "Coorte retrospetiva (centro único)",
+   "authors": "Albano D, Re A, Daffini R, Tucci A, Bertagna F",
+   "doi": "10.1007/s00259-026-07862-x",
+   "url": "https://link.springer.com/article/10.1007/s00259-026-07862-x",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00259-026-07862-x.pdf",
+   "oa": true,
+   "summary": "Grupo de Brescia avaliou MTV, TLG e Dmax na PET basal de doentes com LH clássico tratados com ABVD, todos com PET interina e de fim de tratamento. As três métricas foram mais altas em quem não atingiu resposta metabólica completa e foram fatores independentes de PFS. A combinação MTV + Dmax separou bem os grupos de risco.",
+   "points": [
+    "361 doentes (2007–2023), segmentação em LIFEx 7.7.",
+    "MTV, TLG e Dmax mais elevados nos doentes sem resposta metabólica completa na PET interina e final (p<0,001).",
+    "MTV ≤111 cm³ e Dmax ≤38 cm: PFS a 5 anos de 90%, vs 39% com ambos elevados."
    ]
   },
   {
@@ -360,46 +399,7 @@
     "Gânglios benignos com índice de retenção negativo.",
     "Imagem às 3 h melhora o contraste para estadiamento; dados preliminares."
    ]
-  },
-  {
-   "id": "ejnmmi-cart-consensus",
-   "title": "Identificação precoce guiada por PET de candidatos a CAR-T no DLBCL: consenso multidisciplinar",
-   "orig": "PET-guided early identification of CAR-T candidates in diffuse large B-cell lymphoma: a multidisciplinary expert consensus",
-   "journal": "Eur J Nucl Med Mol Imaging",
-   "date": "2026-06-26",
-   "type": "Consenso de peritos",
-   "authors": "Guerra L, Albano D, Angelillo P, et al.; Zinzani PL",
-   "doi": "10.1007/s00259-026-07999-9",
-   "url": "https://link.springer.com/article/10.1007/s00259-026-07999-9",
-   "pdf": "https://link.springer.com/content/pdf/10.1007/s00259-026-07999-9.pdf",
-   "oa": true,
-   "summary": "Painel italiano de Medicina Nuclear e Hematologia definiu como integrar a PET-FDG no percurso do DLBCL para identificar cedo quem poderá precisar de CAR-T. A PET é considerada biomarcador central em todas as fases e a uniformização de aquisição e relatório é apontada como condição para a aplicar na prática.",
-   "points": [
-    "PET basal: métricas quantitativas como o MTV estratificam melhor do que os índices clínicos convencionais.",
-    "PET interina: Deauville e ΔSUVmax permitem reconhecer cedo doentes de alto risco ou refratários e referenciá-los a tempo.",
-    "PET de fim de tratamento continua essencial para a decisão terapêutica.",
-    "Publicado em EJNMMI 2026;53(12):6800–6812 (online 26-06-2026)."
-   ]
-  },
-  {
-   "id": "ejnmmi-chl-baseline",
-   "title": "Valor preditivo e prognóstico de métricas volumétricas e de disseminação na PET basal do linfoma de Hodgkin clássico",
-   "orig": "The predictive and prognostic role of baseline 2-[18F]FDG PET/CT volumetric and dissemination features in classical Hodgkin lymphoma",
-   "journal": "Eur J Nucl Med Mol Imaging",
-   "date": "2026-03-25",
-   "type": "Coorte retrospetiva (centro único)",
-   "authors": "Albano D, Re A, Daffini R, Tucci A, Bertagna F",
-   "doi": "10.1007/s00259-026-07862-x",
-   "url": "https://link.springer.com/article/10.1007/s00259-026-07862-x",
-   "pdf": "https://link.springer.com/content/pdf/10.1007/s00259-026-07862-x.pdf",
-   "oa": true,
-   "summary": "Grupo de Brescia avaliou MTV, TLG e Dmax na PET basal de doentes com LH clássico tratados com ABVD, todos com PET interina e de fim de tratamento. As três métricas foram mais altas em quem não atingiu resposta metabólica completa e foram fatores independentes de PFS. A combinação MTV + Dmax separou bem os grupos de risco.",
-   "points": [
-    "361 doentes (2007–2023), segmentação em LIFEx 7.7.",
-    "MTV, TLG e Dmax mais elevados nos doentes sem resposta metabólica completa na PET interina e final (p<0,001).",
-    "MTV ≤111 cm³ e Dmax ≤38 cm: PFS a 5 anos de 90%, vs 39% com ambos elevados."
-   ]
   }
  ],
- "stamp": "2026-11-14T11:48"
+ "stamp": "2026-11-14T11:50"
 }
