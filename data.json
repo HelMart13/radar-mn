@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-18",
- "edition": "Semana 42 · 2026",
+ "updated": "2026-11-14",
+ "edition": "Semana 46 · 2026",
  "guidelines": [
   {
    "id": "vq-2026",
@@ -106,6 +106,164 @@
  ],
  "lymphoma": [
   {
+   "id": "jiim-lowdose-ct-dl",
+   "title": "CT de baixa dose simulada com redução de ruído por deep learning na PET/CT do linfoma",
+   "orig": "Feasibility of Simulated Low-Dose CT with Deep Learning Denoising for Lymphoma PET/CT Imaging: A Clinical Study on Lesion Detection, Staging, and Therapy Response",
+   "journal": "J Imaging Inform Med",
+   "date": "2026-11-09",
+   "type": "Estudo de leitura multileitor (retrospetivo)",
+   "authors": "He Y, Peng H, Li Z, et al.",
+   "doi": "10.1007/s10278-026-02474-1",
+   "url": "https://link.springer.com/article/10.1007/s10278-026-02474-1",
+   "pdf": "",
+   "oa": false,
+   "summary": "Para reduzir a dose acumulada de radiação nas PET/CT repetidas do linfoma, os autores simularam CT a 1/4 da dose padrão e treinaram um modelo de deep learning para lhe retirar ruído. Seis médicos de Medicina Nuclear compararam CT padrão, CT de baixa dose e CT de baixa dose filtrada quanto a qualidade, deteção de lesões, estadiamento e resposta. A versão filtrada manteve o desempenho diagnóstico da CT padrão.",
+   "points": [
+    "152 doentes / 211 PET/CT; modelo treinado em 108 doentes e avaliado numa coorte independente de 44 doentes (103 exames).",
+    "1/4 da dose foi o nível mínimo clinicamente aceitável; a filtragem subiu a qualidade subjetiva de 3,00 para 4,11 (escala de 5).",
+    "Estadiamento: CT de baixa dose pior que CT padrão (MAE 1,50 vs 1,40; p=0,0011); após filtragem sem diferença (1,44; p=0,47).",
+    "Deteção de lesões e avaliação de resposta sem diferença entre condições; efeito maior com IMC ≥24 kg/m² e em leitores menos experientes."
+   ]
+  },
+  {
+   "id": "cii-cart-organ-dor",
+   "title": "Profundidade de resposta por órgão após CAR-T anti-CD19 em linfomas B",
+   "orig": "Organ-specific depth of response to CD19-directed CAR T-cell therapy in B-cell lymphomas",
+   "journal": "Cancer Immunol Immunother",
+   "date": "2026-10-25",
+   "type": "Coorte retrospetiva (centro único)",
+   "authors": "Kassube M, Achhammer P, Linden P, et al.",
+   "doi": "10.1007/s00262-026-04605-7",
+   "url": "https://link.springer.com/article/10.1007/s00262-026-04605-7",
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00262-026-04605-7.pdf",
+   "oa": true,
+   "summary": "Estudo de Munique (LMU) que seguiu até seis lesões-alvo por doente em CT ou PET/CT, segundo Lugano, antes e depois de CAR-T no LBCL em recaída/refratário. A redução tumoral foi semelhante em lesões ganglionares e extraganglionares, mas a sobrevivência dependeu da distribuição anatómica da doença. Análise exploratória, com subgrupos pequenos por órgão.",
+   "points": [
+    "109 doentes (2019–2025); 59,6% com doença extraganglionar basal, com carga tumoral superior (SPD mediana 3573 vs 1998 mm²).",
+    "Redução de SPD comparável: −62,1% vs −65,6% no 1.º controlo e −77,9% vs −78,1% no 2.º.",
+    "PFS mediana de 306,5 dias com doença só ganglionar vs 90 dias com doença extraganglionar.",
+    "SPD basal independente para PFS e OS (HR por duplicação 1,17 e 1,21); envolvimento pleural manteve-se independente (n pequenos, 7–19)."
+   ]
+  },
+  {
+   "id": "hemasphere-eha-fl-2026",
+   "title": "Linfoma folicular de novo e em recaída: guideline de prática clínica da EHA",
+   "orig": "Newly diagnosed and relapsed follicular lymphoma: EHA Clinical Practice Guidelines for diagnosis, treatment, and follow-up",
+   "journal": "HemaSphere",
+   "date": "2026-10-19",
+   "type": "Guideline clínica (EHA)",
+   "authors": "Ladetto M, Bolaños N, Bouguet G, et al.; Dreyling M",
+   "doi": "10.1002/hem3.70507",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1002/hem3.70507",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/hem3.70507",
+   "oa": true,
+   "summary": "Nova guideline europeia da EHA para diagnóstico, tratamento e seguimento do linfoma folicular. Para a Medicina Nuclear, o ponto central é que o estadiamento e o prognóstico assentam na PET/CT. Atualiza também a sequência terapêutica na recaída, com prioridade às opções sem quimioterapia.",
+   "points": [
+    "Estadiamento e prognóstico baseados em PET/CT; diagnóstico exige biópsia adequada e hematopatologista dedicado.",
+    "Doença localizada: radioterapia ± rituximab; doença disseminada de baixa carga: vigilância ativa (ou rituximab em casos selecionados).",
+    "Na 1.ª recaída: rituximab-lenalidomida ± tafasitamab ou epcoritamab; após a 2.ª: bispecíficos, CAR-T ou zanubrutinib-obinutuzumab, à frente da imunoquimioterapia.",
+    "Sobrevivência global mediana ao diagnóstico provavelmente > 20 anos — o seguimento prolongado faz parte da recomendação."
+   ]
+  },
+  {
+   "id": "cancers-cally-ipet-hl",
+   "title": "Índice CALLY e PET interina num modelo prognóstico integrado do linfoma de Hodgkin",
+   "orig": "Integrated Prognostic Modelling with the CALLY Index and Interim PET/CT in Hodgkin Lymphoma",
+   "journal": "Cancers (Basel)",
+   "date": "2026-10-04",
+   "type": "Coorte retrospetiva (centro único)",
+   "authors": "Göze H, Polat İE, Bal N, et al.",
+   "doi": "10.3390/cancers18193205",
+   "url": "https://www.mdpi.com/2072-6694/18/19/3205",
+   "pdf": "https://www.mdpi.com/2072-6694/18/19/3205/pdf",
+   "oa": true,
+   "summary": "Testa se o índice CALLY (albumina × linfócitos / PCR), disponível ao diagnóstico, antecipa a resposta na PET interina (após 2 ciclos, Deauville 4–5 positivo) e a sobrevivência no LH. O CALLY baixo associou-se a PET interina positiva e pior PFS, mas perdeu significado depois de ajustado para a PET interina, que continua a ser o fator dominante.",
+   "points": [
+    "180 doentes, seguimento mediano 30,5 meses; PET interina positiva em 31/163 (19,0%).",
+    "CALLY < 1,5: mais PET interina positiva (29,8% vs 13,0%; OR 2,84) e PFS a 24 meses inferior (66,9% vs 89,8%).",
+    "Sem valor independente após ajuste para a PET interina (HR 1,86; p=0,157).",
+    "Modelo exploratório de 3 níveis: PFS a 24 meses de 94,5%, 79,6% e 41,2% (HR alto vs baixo risco 9,48)."
+   ]
+  },
+  {
+   "id": "cancers-mednext-hl-tmtv",
+   "title": "Segmentação automática com MedNeXt e valor prognóstico do TMTV na PET do linfoma de Hodgkin",
+   "orig": "MedNeXt-Based Automated Tumor Segmentation and TMTV Prognostication in Hodgkin Lymphoma PET Images: A Retrospective Study",
+   "journal": "Cancers (Basel)",
+   "date": "2026-10-03",
+   "type": "Estudo de IA (retrospetivo, 2 centros)",
+   "authors": "Zhang H, Sun F, Yu H, et al.",
+   "doi": "10.3390/cancers18193196",
+   "url": "https://www.mdpi.com/2072-6694/18/19/3196",
+   "pdf": "https://www.mdpi.com/2072-6694/18/19/3196/pdf",
+   "oa": true,
+   "summary": "Rede MedNeXt treinada para segmentar o LH em PET, comparada com cinco outras arquiteturas nos mesmos dados de dois centros. Foi a melhor das seis e o TMTV que calculou concordou bem com o de referência, embora a delimitação dos contornos ainda precise de melhorar. O TMTV previsto associou-se à PFS, mas não à OS.",
+   "points": [
+    "Validação: Dice 0,702 ± 0,191; HD95 68,0 mm.",
+    "TMTV médio de referência 424,7 cm³ vs previsto 405,9 cm³ (boa concordância em Bland-Altman).",
+    "TMTV previsto associado à PFS (p=0,048), sem associação com a OS (p=0,163)."
+   ]
+  },
+  {
+   "id": "jcm-deauville-dsuv-chl",
+   "title": "Deauville vs ΔSUVmax na PET interina do linfoma de Hodgkin clássico: estudo de vida real",
+   "orig": "The Comparative Prognostic Value of the Interim PET Deauville Score and ΔSUVmax in Classical Hodgkin Lymphoma: A Real-World Study of Imaging and Inflammatory Markers",
+   "journal": "J Clin Med",
+   "date": "2026-09-22",
+   "type": "Coorte retrospetiva",
+   "authors": "Mersin S, Yanık H, Koç ZP, et al.",
+   "doi": "10.3390/jcm15197353",
+   "url": "https://www.mdpi.com/2077-0383/15/19/7353",
+   "pdf": "https://www.mdpi.com/2077-0383/15/19/7353/pdf",
+   "oa": true,
+   "summary": "Comparou, em doentes com PET basal e interina, o valor prognóstico do Deauville com limiares publicados de ΔSUVmax e com a razão linfócitos/monócitos (LMR). Os limiares altos de ΔSUVmax não se reproduziram e o ΔSUVmax nada acrescentou ao Deauville. Um modelo simples Deauville + IPS foi o que melhor estratificou o risco.",
+   "points": [
+    "78 adultos, seguimento mediano 47 meses, 26 eventos de PFS.",
+    "Limiares de ΔSUVmax de 83–88% não separaram a PFS; só o de 66% o fez.",
+    "Deauville positivo: HR 2,26 para PFS (p=0,040).",
+    "Deauville + IPS: PFS a 5 anos de 83%/60%/24%; C-index 0,73 vs 0,66 para Deauville + LMR."
+   ]
+  },
+  {
+   "id": "cimaging-topology-dlbcl",
+   "title": "Topologia espacial na PET/CT basal melhora a estratificação de risco no DLBCL disseminado",
+   "orig": "Spatial topology on baseline PET/CT improves risk stratification in disseminated diffuse large B-cell lymphoma: a multicenter study",
+   "journal": "Cancer Imaging",
+   "date": "2026-08-19",
+   "type": "Estudo multicêntrico (retrospetivo)",
+   "authors": "Lin L, Li M, Du J, et al.",
+   "doi": "10.1186/s40644-026-01112-x",
+   "url": "https://link.springer.com/article/10.1186/s40644-026-01112-x",
+   "pdf": "https://link.springer.com/content/pdf/10.1186/s40644-026-01112-x.pdf",
+   "oa": true,
+   "summary": "No DLBCL com ≥4 lesões, as lesões foram detetadas por IA com revisão humana e organizadas numa rede espacial 3D, para extrair características topológicas além do volume e da disseminação clássicos. Juntar a topologia às métricas volumétricas melhorou a previsão da PFS a 2 anos e a calibração. Algumas métricas topológicas associaram-se a subtipos moleculares mais agressivos. (Indexado no PubMed nas últimas semanas.)",
+   "points": [
+    "243 doentes de novo (treino 161, validação externa 82).",
+    "Validação: modelo clínico AUC 0,620; topológico 0,819 vs volumétrico 0,828 (p=0,68), com mais especificidade (76,4% vs 67,3%).",
+    "Modelo combinado: AUC 0,871 (p=0,032 vs volumétrico) e declive de calibração 0,96 vs 0,65.",
+    "Índice LCI elevado associado a subtipo não-GCB (p<0,001) e a duplo expressor (p=0,017)."
+   ]
+  },
+  {
+   "id": "ejnmmiphys-ai-tmtv-lbcl",
+   "title": "Quantificação do TMTV e Dmax assistida por IA no LBCL: quanto tempo se poupa?",
+   "orig": "AI-assisted [18F]FDG PET/CT quantification: a time-saving approach in large B-cell lymphoma?",
+   "journal": "EJNMMI Phys",
+   "date": "2026-08-16",
+   "type": "Estudo retrospetivo (2 centros)",
+   "authors": "Micheletti V, Marchal É, Gambiez M, et al.",
+   "doi": "10.1186/s40658-026-00923-y",
+   "url": "https://link.springer.com/article/10.1186/s40658-026-00923-y",
+   "pdf": "https://link.springer.com/content/pdf/10.1186/s40658-026-00923-y.pdf",
+   "oa": true,
+   "summary": "Grupo de Amiens comparou a segmentação totalmente manual com a segmentação assistida por IA (Pionus®, com correção pelo especialista), ambas com limiar de 41% do SUVmax. A IA encurtou o tempo de medição sem alterar os valores de TMTV e Dmax, com o maior ganho nos doentes com mais carga tumoral. O impacto no fluxo clínico real ainda não foi avaliado. (Indexado no PubMed nas últimas semanas.)",
+   "points": [
+    "56 doentes com LBCL (61% estádio III–IV).",
+    "41% mais rápido: 152 ± 134 s vs 255 ± 270 s por doente (−104 s; p<0,001); tempo poupado correlacionado com o TMTV (r=0,67).",
+    "Sem diferenças significativas de TMTV nem de Dmax; ICC 0,91–0,95 (TMTV) e 0,95–0,97 (Dmax)."
+   ]
+  },
+  {
    "id": "jnm-uld-hl-pregnancy",
    "title": "PET-FDG de dose ultrabaixa em LAFOV, sem CT para correção de atenuação, no estadiamento do linfoma de Hodgkin na gravidez",
    "orig": "Ultra-Low-Dose Long–Axial-Field-of-View [18F]FDG PET with CT-Free Attenuation Correction for Staging Hodgkin Lymphoma in Pregnancy",
@@ -208,31 +366,40 @@
    "title": "Identificação precoce guiada por PET de candidatos a CAR-T no DLBCL: consenso multidisciplinar",
    "orig": "PET-guided early identification of CAR-T candidates in diffuse large B-cell lymphoma: a multidisciplinary expert consensus",
    "journal": "Eur J Nucl Med Mol Imaging",
-   "date": "2026",
+   "date": "2026-06-26",
    "type": "Consenso de peritos",
-   "authors": "",
+   "authors": "Guerra L, Albano D, Angelillo P, et al.; Zinzani PL",
    "doi": "10.1007/s00259-026-07999-9",
    "url": "https://link.springer.com/article/10.1007/s00259-026-07999-9",
-   "pdf": "",
-   "oa": false,
-   "summary": "Consenso sobre o uso da PET para identificar cedo os doentes com DLBCL que vão precisar de CAR-T. O texto não ficou acessível nesta pesquisa; resumo pendente.",
-   "points": []
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00259-026-07999-9.pdf",
+   "oa": true,
+   "summary": "Painel italiano de Medicina Nuclear e Hematologia definiu como integrar a PET-FDG no percurso do DLBCL para identificar cedo quem poderá precisar de CAR-T. A PET é considerada biomarcador central em todas as fases e a uniformização de aquisição e relatório é apontada como condição para a aplicar na prática.",
+   "points": [
+    "PET basal: métricas quantitativas como o MTV estratificam melhor do que os índices clínicos convencionais.",
+    "PET interina: Deauville e ΔSUVmax permitem reconhecer cedo doentes de alto risco ou refratários e referenciá-los a tempo.",
+    "PET de fim de tratamento continua essencial para a decisão terapêutica.",
+    "Publicado em EJNMMI 2026;53(12):6800–6812 (online 26-06-2026)."
+   ]
   },
   {
    "id": "ejnmmi-chl-baseline",
    "title": "Valor preditivo e prognóstico de métricas volumétricas e de disseminação na PET basal do linfoma de Hodgkin clássico",
    "orig": "The predictive and prognostic role of baseline 2-[18F]FDG PET/CT volumetric and dissemination features in classical Hodgkin lymphoma",
    "journal": "Eur J Nucl Med Mol Imaging",
-   "date": "2026",
-   "type": "Coorte",
-   "authors": "",
+   "date": "2026-03-25",
+   "type": "Coorte retrospetiva (centro único)",
+   "authors": "Albano D, Re A, Daffini R, Tucci A, Bertagna F",
    "doi": "10.1007/s00259-026-07862-x",
    "url": "https://link.springer.com/article/10.1007/s00259-026-07862-x",
-   "pdf": "",
-   "oa": false,
-   "summary": "Avalia MTV, TLG e métricas de disseminação (tipo Dmax) na PET basal do LH clássico. O texto não ficou acessível nesta pesquisa; resumo pendente.",
-   "points": []
+   "pdf": "https://link.springer.com/content/pdf/10.1007/s00259-026-07862-x.pdf",
+   "oa": true,
+   "summary": "Grupo de Brescia avaliou MTV, TLG e Dmax na PET basal de doentes com LH clássico tratados com ABVD, todos com PET interina e de fim de tratamento. As três métricas foram mais altas em quem não atingiu resposta metabólica completa e foram fatores independentes de PFS. A combinação MTV + Dmax separou bem os grupos de risco.",
+   "points": [
+    "361 doentes (2007–2023), segmentação em LIFEx 7.7.",
+    "MTV, TLG e Dmax mais elevados nos doentes sem resposta metabólica completa na PET interina e final (p<0,001).",
+    "MTV ≤111 cm³ e Dmax ≤38 cm: PFS a 5 anos de 90%, vs 39% com ambos elevados."
+   ]
   }
  ],
- "stamp": "2026-10-18T10:45"
+ "stamp": "2026-11-14T11:46"
 }
