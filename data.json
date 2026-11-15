@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "edition": "Semana 46 · 2026",
  "guidelines": [
   {
@@ -106,6 +106,21 @@
  ],
  "lymphoma": [
   {
+   "id": "bmt-mtv-bridging-cart",
+   "title": "Trajetória do volume tumoral metabólico durante o bridging e resultados após CAR-T no linfoma B de grandes células",
+   "orig": "Metabolic tumor volume trajectory during bridging and association with outcomes after CAR T infusion in large B-cell lymphoma",
+   "journal": "Bone Marrow Transplant",
+   "date": "2026-11-09",
+   "type": "Carta (estudo retrospetivo, unicêntrico)",
+   "authors": "Gong IY, Mirshahvalad SA, Almutairi E, et al.",
+   "doi": "10.1038/s41409-026-03058-x",
+   "url": "https://www.nature.com/articles/s41409-026-03058-x",
+   "pdf": "",
+   "oa": false,
+   "summary": "Carta do Princess Margaret Cancer Centre (Toronto) que avalia como a evolução do MTV na PET entre a leucaferese e a infusão (período de bridging) se associa aos resultados após CAR-T no LBCL. Sem resumo publicado e com o texto integral inacessível daqui: o número de doentes e os resultados ficam pendentes até eu conseguir ler o artigo.",
+   "points": []
+  },
+  {
    "id": "jiim-lowdose-ct-dl",
    "title": "CT de baixa dose simulada com redução de ruído por deep learning na PET/CT do linfoma",
    "orig": "Feasibility of Simulated Low-Dose CT with Deep Learning Denoising for Lymphoma PET/CT Imaging: A Clinical Study on Lesion Detection, Staging, and Therapy Response",
@@ -123,6 +138,27 @@
     "1/4 da dose foi o nível mínimo clinicamente aceitável; a filtragem subiu a qualidade subjetiva de 3,00 para 4,11 (escala de 5).",
     "Estadiamento: CT de baixa dose pior que CT padrão (MAE 1,50 vs 1,40; p=0,0011); após filtragem sem diferença (1,44; p=0,47).",
     "Deteção de lesões e avaliação de resposta sem diferença entre condições; efeito maior com IMC ≥24 kg/m² e em leitores menos experientes."
+   ]
+  },
+  {
+   "id": "frontonc-ctdna-pet-hl",
+   "title": "ctDNA no linfoma de Hodgkin: classificação biológica, doença residual molecular e integração com a resposta na PET",
+   "orig": "Circulating tumor DNA in Hodgkin lymphoma: biological classification, molecular residual disease, and integration with PET response",
+   "journal": "Front Oncol",
+   "date": "2026-10-29",
+   "type": "Revisão narrativa",
+   "authors": "Bednarek M, Komossa M, Bidzińska J",
+   "doi": "10.3389/fonc.2026.1982526",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13755717/",
+   "pdf": "",
+   "oa": true,
+   "summary": "Revisão de um grupo de Gdańsk sobre o ctDNA no LH clássico, doença onde as células de Reed-Sternberg são poucas mas o sinal tumoral no plasma é forte. Defende um modelo combinado PET × MRD em vez de um substituir o outro: a PET localiza a doença e orienta a radioterapia, o ctDNA deteta doença molecular sem localização anatómica. Conclui que o ctDNA ainda não pode substituir os critérios de estadiamento e resposta por PET, faltando ensaios em que a terapêutica guiada por ctDNA melhore resultados.",
+   "points": [
+    "Na análise MRD-2 do GHSG HD21 (BrECADD/eBEACOPP, 18–60 anos; 4 ciclos se PET2 negativa, 6 se positiva), o ctDNA após 2 ciclos acrescentou informação prognóstica à PET2.",
+    "Doentes PET-negativos mas MRD-positivos são o grupo mais relevante: possível doença residual oculta à imagem.",
+    "Classificação genómica por plasma: 366 doentes em 8 coortes (Alig 2024) e 243 adultos dos ensaios HD21/NIVAHL na proposta GHSG/Colónia, validada em 96 crianças do EuroNet-PHL-C2.",
+    "Estudo de exequibilidade com limite de deteção de 5% VAF: mutações basais em 70% dos doentes, mas sensibilidade insuficiente para MRD de baixo nível.",
+    "Sem definição validada de resposta molecular, limiar de positividade nem regra para discordâncias PET/ctDNA; dados escassos acima dos 60 anos."
    ]
   },
   {
@@ -401,5 +437,5 @@
    ]
   }
  ],
- "stamp": "2026-11-14T11:50"
+ "stamp": "2026-11-15T09:36"
 }
