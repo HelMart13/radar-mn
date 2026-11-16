@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15",
- "edition": "Semana 46 · 2026",
+ "updated": "2026-11-16",
+ "edition": "Semana 47 · 2026",
  "guidelines": [
   {
    "id": "vq-2026",
@@ -106,6 +106,36 @@
  ],
  "lymphoma": [
   {
+   "id": "petclin-fdg-decision-theranostics",
+   "title": "PET-FDG no linfoma: decisão terapêutica e perspetivas teranósticas",
+   "orig": "[18F]-Fluorodeoxyglucose PET in Lymphoma: Therapeutic Decision-Making and Theranostic Perspectives",
+   "journal": "PET Clin",
+   "date": "2026-11-13",
+   "type": "Revisão",
+   "authors": "Katal S, Gholamrezanezhad A, Bazargan A, Tam C, Taubman K, Hicks RJ",
+   "doi": "10.1016/j.cpet.2026.09.017",
+   "url": "https://doi.org/10.1016/j.cpet.2026.09.017",
+   "pdf": "",
+   "oa": false,
+   "summary": "Revisão de um grupo de Melbourne (com R. Hicks) sobre o papel da PET/CT-FDG no estadiamento, planeamento e avaliação de resposta dos linfomas FDG-ávidos. Defende que o valor da PET está em interpretar os achados à luz do subtipo, do contexto terapêutico e das consequências para a decisão, e não apenas em detetar atividade residual. Aponta biomarcadores quantitativos, PET de campo axial longo e radiofármacos dirigidos a alvos específicos como caminho para uma abordagem mais individualizada e teranóstica. Só o resumo ficou acessível daqui.",
+   "points": []
+  },
+  {
+   "id": "blood-ctdna-lbcl-ready",
+   "title": "O ctDNA está pronto para uso clínico no linfoma B de grandes células?",
+   "orig": "Is Circulating Tumor DNA Ready for Clinical Use in Large B-cell Lymphoma?",
+   "journal": "Blood",
+   "date": "2026-11-10",
+   "type": "Artigo de discussão (online ahead of print)",
+   "authors": "Merryman RW, Roschewski M",
+   "doi": "10.1182/blood.2026033073",
+   "url": "https://doi.org/10.1182/blood.2026033073",
+   "pdf": "",
+   "oa": false,
+   "summary": "Os autores (Dana-Farber e MSK) discutem a doença residual mensurável por ctDNA após terapêutica de 1.ª linha no LBCL. Lembram que a PET é a base dos critérios de resposta mas não deteta doença apenas molecular, e que o ctDNA surge como ferramenta complementar para decisões difíceis. Discutem como implementar a MRD na prática e que dados faltam. Só o resumo ficou acessível daqui; sem resultados numéricos a reportar.",
+   "points": []
+  },
+  {
    "id": "bmt-mtv-bridging-cart",
    "title": "Trajetória do volume tumoral metabólico durante o bridging e resultados após CAR-T no linfoma B de grandes células",
    "orig": "Metabolic tumor volume trajectory during bridging and association with outcomes after CAR T infusion in large B-cell lymphoma",
@@ -159,6 +189,26 @@
     "Classificação genómica por plasma: 366 doentes em 8 coortes (Alig 2024) e 243 adultos dos ensaios HD21/NIVAHL na proposta GHSG/Colónia, validada em 96 crianças do EuroNet-PHL-C2.",
     "Estudo de exequibilidade com limite de deteção de 5% VAF: mutações basais em 70% dos doentes, mas sensibilidade insuficiente para MRD de baixo nível.",
     "Sem definição validada de resposta molecular, limiar de positividade nem regra para discordâncias PET/ctDNA; dados escassos acima dos 60 anos."
+   ]
+  },
+  {
+   "id": "frontimmunol-ctdna-fl-pet",
+   "title": "Para além da PET/CT: o papel crescente do ctDNA no linfoma folicular",
+   "orig": "Beyond PET/CT: the evolving role of circulating tumor DNA in follicular lymphoma",
+   "journal": "Front Immunol",
+   "date": "2026-10-27",
+   "type": "Artigo de discussão/opinião",
+   "authors": "Barrio S, Martín-Muñoz A, Jiménez-Ubieto A",
+   "doi": "10.3389/fimmu.2026.1978141",
+   "url": "https://doi.org/10.3389/fimmu.2026.1978141",
+   "pdf": "https://www.frontiersin.org/articles/10.3389/fimmu.2026.1978141/pdf",
+   "oa": true,
+   "summary": "Grupo de Madrid defende que PET/CT e ctDNA medem dimensões diferentes da doença (atividade metabólica vs carga tumoral molecular) e que as discordâncias são informativas. Sintetiza dados em 1.ª linha, após CAR-T e com anticorpos biespecíficos, onde a inflamação pode gerar captação de FDG sem linfoma viável. Conclui que o ctDNA já pode entrar em avaliação multimodal e ensaios, mas não deve isoladamente motivar escalada ou desescalada fora de ensaio clínico (o FOLL12 mostrou que prognóstico não é sinónimo de acionável).",
+   "points": [
+    "Claudel et al. (141 doentes, 1.ª linha): PFS mediana 17,7 meses com ctDNA+ no fim da indução vs não atingida com ctDNA indetetável (112 doentes); VPP para POD24 58,3% (ctDNA) e 45,0% (PET), 85,7% se ambos positivos; VPN >90%.",
+    "Estudo real-world dos autores (54 doentes monitorizados): MRD+ associou-se a progressão na avaliação interina (HR 11,0) e no fim do tratamento (HR 19,1); PET + ctDNA identificou POD24 com sensibilidade 88% e especificidade 100%.",
+    "Após CAR-T anti-CD19 (11 doentes, 59 amostras): 14/14 PET negativas tinham ctDNA negativo; 2 discordâncias PET+/ctDNA− sem progressão confirmada; ao dia +7 ninguém tinha eliminado o ctDNA.",
+    "Odronextamab (ELM-2, 60 doentes): ctDNA indetetável em 53,3% no C4D15, com PFS mediana 42,4 vs 21,6 meses (HR 0,31), mesmo entre doentes em resposta completa radiológica."
    ]
   },
   {
@@ -437,5 +487,5 @@
    ]
   }
  ],
- "stamp": "2026-11-15T09:36"
+ "stamp": "2026-11-16T09:34"
 }
