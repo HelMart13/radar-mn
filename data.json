@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "edition": "Semana 47 · 2026",
  "guidelines": [
   {
@@ -212,6 +212,26 @@
    ]
   },
   {
+   "id": "mta-nis-pet-cd20-cart",
+   "title": "PET com gene repórter NIS mostra cinética de expansão e localização de CAR-T anti-CD20 em ratinhos e primatas",
+   "orig": "NIS reporter gene PET imaging reveals expansion kinetics and localization of anti-CD20 CAR-T in mice and nonhuman primates",
+   "journal": "Mol Ther Adv",
+   "date": "2026-10-26",
+   "type": "Estudo pré-clínico (ratinho e primata não humano)",
+   "authors": "Duncan BB, Hayal TB, Mirazee J, … Choyke PL, Kean LS, Sato N, Dunbar CE, Young DJ",
+   "doi": "10.1016/j.omta.2026.201878",
+   "url": "https://doi.org/10.1016/j.omta.2026.201878",
+   "pdf": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13769562/pdf/main.pdf",
+   "oa": true,
+   "summary": "Grupo do NIH transduziu células CAR-T anti-CD20 com o simportador sódio-iodo (NIS) e seguiu-as por PET/CT com [18F]tetrafluoroborato, primeiro em ratinhos com linfoma Raji subcutâneo e depois em macacos rhesus imunocompetentes. A imagem permitiu acompanhar de forma não invasiva e repetida a chegada e expansão das células ao tumor e aos órgãos linfoides, sem perda de função do CAR. O domínio coestimulador 4-1BB expandiu mais cedo no tumor, o que acompanhou maior eficácia. Prova de conceito para imagem molecular do tráfego de CAR-T, ainda sem dados em doentes.",
+   "points": [
+    "Pico de captação tumoral (SUVmean) no ratinho: dia 8 com 4-1BB, dia 14 com CD27 e dia 36 com CD28 (n=6 por construção).",
+    "Sobrevivência mediana: 17,5 dias (controlo), 25 (CD28), 39 (CD27) e não atingida com 4-1BB (1/6 mortes até ao dia 46; p<0,001 vs controlo).",
+    "4 macacos rhesus tratados, 3 com PET/CT semanal: no baço e gânglios o sinal atingiu o máximo ao dia 7 e manteve-se acima do basal até ao dia 30.",
+    "Atividade administrada: 3,7 MBq de [18F]TFB no ratinho e ~2,4 MBq/kg no primata; a citotoxicidade in vitro foi sobreponível à do vetor sem NIS."
+   ]
+  },
+  {
    "id": "cii-cart-organ-dor",
    "title": "Profundidade de resposta por órgão após CAR-T anti-CD19 em linfomas B",
    "orig": "Organ-specific depth of response to CD19-directed CAR T-cell therapy in B-cell lymphomas",
@@ -230,6 +250,21 @@
     "PFS mediana de 306,5 dias com doença só ganglionar vs 90 dias com doença extraganglionar.",
     "SPD basal independente para PFS e OS (HR por duplicação 1,17 e 1,21); envolvimento pleural manteve-se independente (n pequenos, 7–19)."
    ]
+  },
+  {
+   "id": "mric-fdg-lymphoma-mimics",
+   "title": "PET/CT-FDG no linfoma: estadiamento, avaliação de resposta e armadilhas frequentes",
+   "orig": "F-18 Fluorodeoxyglucose PET/Computed Tomography in Lymphoma: Staging, Response Assessment, and Common Mimics",
+   "journal": "Magn Reson Imaging Clin N Am",
+   "date": "2026-10-24",
+   "type": "Revisão narrativa",
+   "authors": "Sutherland D, Romsa J, Akincioglu C",
+   "doi": "10.1016/j.mric.2026.09.010",
+   "url": "https://doi.org/10.1016/j.mric.2026.09.010",
+   "pdf": "",
+   "oa": false,
+   "summary": "Revisão prática da Western University (Canadá) sobre a PET/CT-FDG nos linfomas FDG-ávidos: aspetos técnicos, avidez por subtipo histológico, critérios de Lugano/Deauville e evidência dos ensaios adaptados à PET. Dá destaque aos falsos positivos fisiológicos, inflamatórios, pós-tratamento e imunomediados que podem alterar o estadiamento ou a classificação de resposta, com orientação para o relatório. Só o resumo ficou acessível daqui.",
+   "points": []
   },
   {
    "id": "hemasphere-eha-fl-2026",
@@ -487,5 +522,5 @@
    ]
   }
  ],
- "stamp": "2026-11-16T09:34"
+ "stamp": "2026-11-17T09:34"
 }
