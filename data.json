@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-19",
  "edition": "Semana 47 · 2026",
  "guidelines": [
   {
@@ -105,6 +105,48 @@
   }
  ],
  "lymphoma": [
+  {
+   "id": "frontmed-liversuvmax-dlbcl-ipet",
+   "title": "liverSUVmax% como alternativa prática ao ΔSUVmax na PET interina do DLBCL: coorte de validação e análise exploratória",
+   "orig": "Exploring liverSUVmax% as a practical alternative to ΔSUVmax for interim PET/CT assessment in DLBCL: a validation cohort study and a single-centre retrospective exploratory analysis",
+   "journal": "Front Med (Lausanne)",
+   "date": "2026-11-03",
+   "type": "Estudo retrospetivo unicêntrico",
+   "authors": "Gagey G, Gilhodes J, Dutari P, Brisou G, Schiano de Colella JM, Calleja A, Villetard F, Benizri F, Kanoun S, Montes de Oca C, Reichert T, Noel R",
+   "doi": "10.3389/fmed.2026.1898209",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13774307/",
+   "pdf": "",
+   "oa": true,
+   "summary": "Estudo francês em 144 doentes com DLBCL tratados com R-CHOP que avaliou, na prática real, o ΔSUVmax e o liverSUVmax% (SUVmax da lesão residual expresso em percentagem do SUVmax hepático) como métodos de leitura da PET interina. O ΔSUVmax só pôde ser aplicado em tempo real em menos de metade dos doentes, sobretudo por limitações logísticas. O limiar de 160% na iPET2 foi validado externamente como fator prognóstico independente, e a análise exploratória sugere 120% na iPET4. Os autores pedem validação prospetiva antes do uso rotineiro.",
+   "points": [
+    "ΔSUVmax aplicado em tempo real em apenas 47,9% (69/144); os restantes foram lidos por Deauville.",
+    "iPET2 com liverSUVmax >160%: HR ajustado 3,76 para progressão e 4,96 para morte (ambos p<0,001); sensibilidade 42,7%, especificidade 88,5%, VPN 82,7%.",
+    "iPET4: limiar exploratório de 120% com HR 2,82 (PFS) e 4,14 (OS); concordância quase perfeita com Deauville (κ=0,91).",
+    "Na iPET2, concordância moderada do liverSUVmax% 160% com Deauville (κ=0,52) e com ΔSUVmax (κ=0,59).",
+    "ΔSUVmax >66% na iPET2 associou-se a menor risco de progressão (HR ajustado 0,16) e de morte (0,15)."
+   ]
+  },
+  {
+   "id": "frontmed-pet2-hl-juizo-clinico",
+   "title": "O juízo clínico melhora a interpretação da PET interina no linfoma de Hodgkin: experiência real de um centro",
+   "orig": "Clinical judgment enhances interim PET interpretation in Hodgkin lymphoma: a real-world monocentric experience",
+   "journal": "Front Med (Lausanne)",
+   "date": "2026-11-03",
+   "type": "Estudo retrospetivo unicêntrico",
+   "authors": "Olivieri J, Petruzzellis G, Valentini G, Lauzzana P, Pasquale R, Frisoli S, Liotta V, Moratti M, Plos R, Rensi M, Patriarca F, Fanin R",
+   "doi": "10.3389/fmed.2026.1981691",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13774368/",
+   "pdf": "",
+   "oa": true,
+   "summary": "Coorte italiana (Udine) de adultos com LH clássico tratados com ABVD entre 2010 e 2023, centrada nos doentes com PET2 positiva (Deauville ≥4, definido por SUVmax da lesão acima do SUVmax hepático) e na decisão do clínico de intensificar ou manter o ABVD. Os doentes que mantiveram ABVD tinham menor atividade residual e atingiram mais vezes resposta metabólica completa na PET seguinte, sem excesso detetável de mortes por linfoma. Os autores defendem integrar parâmetros semiquantitativos (ΔSUV lesão–fígado) e características do doente na decisão perante PET2 'zona cinzenta'.",
+   "points": [
+    "PET2 positiva em 53/373 (14%); 51 analisados: terapêutica intensificada em 28 (55%), ABVD mantido em 23 (45%).",
+    "RMC na PET seguinte: 65% (15/23) com ABVD mantido vs. 36% (10/28) com intensificação (p=0,036).",
+    "ΔSUV lesão–fígado na PET2: 0,9 no grupo que manteve vs. 3,5 no que intensificou (p=0,002); intensificar associou-se a ΔSUV mais alto (OR 1,99) e a idade mais jovem.",
+    "Seguimento mediano 7,9 anos: SG a 5 anos 79,9% vs. 89,3% (p=0,106, sem diferença); incidência cumulativa de morte por linfoma a 10 anos 12,7% vs. 7,1% (p=0,76).",
+    "87% dos que mantiveram ABVD evitaram transplante autólogo."
+   ]
+  },
   {
    "id": "petclin-fdg-decision-theranostics",
    "title": "PET-FDG no linfoma: decisão terapêutica e perspetivas teranósticas",
@@ -522,5 +564,5 @@
    ]
   }
  ],
- "stamp": "2026-11-17T09:34"
+ "stamp": "2026-11-19T09:33"
 }
