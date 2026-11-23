@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19",
- "edition": "Semana 47 · 2026",
+ "updated": "2026-11-23",
+ "edition": "Semana 48 · 2026",
  "guidelines": [
   {
    "id": "vq-2026",
@@ -105,6 +105,81 @@
   }
  ],
  "lymphoma": [
+  {
+   "id": "cancers-radiomics-ahod0831-hl",
+   "title": "Radiómica da PET-FDG basal prevê a resposta no linfoma de Hodgkin de alto risco: análise do ensaio de fase III AHOD0831",
+   "orig": "Radiomic Profiling of Tumor Heterogeneity Predicts Treatment Response in High-Risk Hodgkin Lymphoma: Results from the Phase III AHOD0831 Trial",
+   "journal": "Cancers (Basel)",
+   "date": "2026-11-20",
+   "type": "Análise secundária de ensaio de fase III (multicêntrico)",
+   "authors": "Ji X, Anderson P, Huang J, Kuker R, Alderuccio JP, Dogan N, Yang F",
+   "doi": "10.3390/cancers18223715",
+   "url": "https://doi.org/10.3390/cancers18223715",
+   "pdf": "https://www.mdpi.com/2072-6694/18/22/3715/pdf",
+   "oa": true,
+   "summary": "Análise das PET/CT-FDG basais de crianças e adolescentes com linfoma de Hodgkin de alto risco incluídos no ensaio AHOD0831 (COG). Foram extraídas 59 características de textura de segunda ordem com três larguras de discretização de SUV e comparados modelos radiómicos com os biomarcadores convencionais (TMTV, TLG). Um núcleo de características de heterogeneidade manteve-se estável entre esquemas de discretização, e os modelos radiómicos (isolados ou com TMTV) superaram sistematicamente os baseados só em TMTV ou TMTV+TLG. Os autores pedem validação externa. Só o resumo ficou acessível daqui; os valores de AUC ficam pendentes.",
+   "points": [
+    "115 doentes: 54 (47,0%) com resposta completa e 61 (53,0%) com resposta parcial ou doença estável.",
+    "59 características de textura extraídas com larguras de bin de 0,1, 0,25 e 0,5 SUV; seleção por LASSO com bootstrap e validação cruzada 5-fold repetida.",
+    "Características retidas: medidas de correlação informacional (GLCM), não-uniformidade de níveis de cinzento (GLDM) e coarseness/strength (NGTDM).",
+    "Modelos radiómicos e híbridos radiómica+TMTV superiores a TMTV e a TMTV+TLG em todos os conjuntos; maior benefício líquido na análise de curva de decisão (exploratória)."
+   ]
+  },
+  {
+   "id": "cancers-bmb-pet-era-review",
+   "title": "Biópsia osteomedular na era da PET/CT: papel no linfoma de Hodgkin e nos linfomas B mais comuns",
+   "orig": "Bone Marrow Biopsy in the PET/CT Era: Its Role in Hodgkin and Common B-Cell Lymphomas: A Contemporary Narrative Review",
+   "journal": "Cancers (Basel)",
+   "date": "2026-11-20",
+   "type": "Revisão narrativa",
+   "authors": "Tudor C, Stanciu A, Adam T, Stoica AG, Gherase-Cristian M, Popescu DM, Savin DE, Mircescu AM, Bajenaru TS, Mititelu R",
+   "doi": "10.3390/cancers18223712",
+   "url": "https://doi.org/10.3390/cancers18223712",
+   "pdf": "https://www.mdpi.com/2072-6694/18/22/3712/pdf",
+   "oa": true,
+   "summary": "Revisão de um grupo romeno com participação de Medicina Nuclear sobre quando a biópsia osteomedular continua a acrescentar valor à PET/CT-FDG no estadiamento. No linfoma de Hodgkin e no DLBCL estadiados por PET, a biópsia de rotina pode em geral ser dispensada, salvo dúvida que mude a conduta. No linfoma folicular, do manto e da zona marginal a avaliação medular mantém-se, sobretudo quando se pondera tratamento localizado ou há citopenias inexplicadas. A mensagem central: a biópsia deve responder a uma pergunta clínica concreta.",
+   "points": [
+    "Sensibilidade agregada da PET/CT para infiltração medular no linfoma folicular: 67% (IC95% 38–87%).",
+    "Linfoma do manto (uma coorte): VPN da PET/CT de apenas 27,8% com prevalência de infiltração medular de 78,4%.",
+    "Na zona marginal extraganglionar, a avidez FDG das lesões não garante deteção fiável de infiltração medular.",
+    "ctDNA, radiómica e PET/RM são apresentados como complementares, não substitutos."
+   ]
+  },
+  {
+   "id": "molimaging-segmentation-ai-review",
+   "title": "Segmentação de linfoma na PET/CT: dos métodos clássicos à inteligência artificial (revisão sistemática)",
+   "orig": "Advances in PET/CT Segmentation for Lymphoma: Bridging Classical Approaches With Artificial Intelligence",
+   "journal": "Mol Imaging",
+   "date": "2026-11-16",
+   "type": "Revisão sistemática",
+   "authors": "Jalilifar M, Fatahiasl J, Aryafard A, Geramifar P",
+   "doi": "10.1177/15353508261508952",
+   "url": "https://doi.org/10.1177/15353508261508952",
+   "pdf": "https://journals.sagepub.com/doi/pdf/10.1177/15353508261508952",
+   "oa": true,
+   "summary": "Revisão de 73 estudos (1990–2025) que compara métodos de segmentação do linfoma na PET/CT-FDG de corpo inteiro: manual, por limiar, crescimento de região, clustering, atlas e deep learning. Os métodos por limiar são simples mas inconsistentes; os modelos de deep learning (variantes U-Net/V-Net) aproximam-se do desempenho de peritos. Persistem problemas de generalização multicêntrica, deteção de lesões pequenas e explicabilidade, o que exige conjuntos de dados harmonizados e validação clínica.",
+   "points": [
+    "73 estudos incluídos; métrica principal o coeficiente de Dice (DSC).",
+    "Crescimento de região: DSC ≈0,80–0,84; clustering: ≈0,87.",
+    "Deep learning (U-Net, V-Net): DSC ≈0,75–0,88; modelos híbridos PET/CT e longitudinais melhoraram a precisão.",
+    "Métodos baseados em atlas ajudam a excluir captação fisiológica, mas exigem frequentemente revisão por perito."
+   ]
+  },
+  {
+   "id": "hemonc-pmbl-case-based",
+   "title": "Linfoma B primário do mediastino na prática: abordagem baseada em casos para dilemas diagnósticos e terapêuticos (incl. resposta por PET)",
+   "orig": "Primary Mediastinal B-Cell Lymphoma in Clinical Practice: A Case-Based Approach to Unresolved Diagnostic and Therapeutic Dilemmas",
+   "journal": "Hematol Oncol",
+   "date": "2026-11-22",
+   "type": "Revisão (baseada em casos)",
+   "authors": "Bailly S, Noël R, Galtier J, Renaud L, Decroocq J, Kirova Y, Traverse-Glehen A, Donzel M, Bailly S, Sesques P, Minard-Colin V, Gheysens O, Van Den Neste E, Constantinescu SN, Camus V",
+   "doi": "10.1002/hon.70296",
+   "url": "https://doi.org/10.1002/hon.70296",
+   "pdf": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/hon.70296",
+   "oa": true,
+   "summary": "Revisão franco-belga (com Medicina Nuclear da UCLouvain) que percorre quatro casos de PMBL até à resolução: diagnóstico, 1.ª linha, avaliação de resposta guiada por PET, gravidez, adolescentes e jovens adultos, recaída/refratariedade e seguimento. Na prática dos autores, preferem quimioimunoterapia intensificada a R-CHOP21, omitem a radioterapia após resposta metabólica completa e, em 2.ª linha, apostam em inibidores de checkpoint e CAR-T anti-CD19. ctDNA e radiómica surgem como ferramentas emergentes. Só o resumo ficou acessível daqui.",
+   "points": []
+  },
   {
    "id": "frontmed-liversuvmax-dlbcl-ipet",
    "title": "liverSUVmax% como alternativa prática ao ΔSUVmax na PET interina do DLBCL: coorte de validação e análise exploratória",
@@ -564,5 +639,5 @@
    ]
   }
  ],
- "stamp": "2026-11-19T09:33"
+ "stamp": "2026-11-23T09:50"
 }
