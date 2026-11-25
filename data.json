@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-25",
  "edition": "Semana 48 · 2026",
  "guidelines": [
   {
@@ -105,6 +105,27 @@
   }
  ],
  "lymphoma": [
+  {
+   "id": "cancers-bm-discordance-chl-2026",
+   "title": "Envolvimento medular no linfoma de Hodgkin clássico na era da PET/CT: discordância biópsia–PET, correlações clínicas e resultados",
+   "orig": "Revisiting Bone Marrow Involvement in Classical Hodgkin Lymphoma in the PET/CT Era: Biopsy–PET Discordance, Clinical Correlates, and Treatment Outcomes",
+   "journal": "Cancers (Basel)",
+   "date": "2026-11-24",
+   "type": "Estudo retrospetivo unicêntrico",
+   "authors": "Arslan E, Kiper Unal HD, Arslan T, Aygün K, Garip Acar A, Cetintepe T, Solmaz Ş, Alacacıoğlu İ",
+   "doi": "10.3390/cancers18233747",
+   "url": "https://doi.org/10.3390/cancers18233747",
+   "pdf": "https://www.mdpi.com/2072-6694/18/23/3747/pdf",
+   "oa": true,
+   "summary": "Coorte de adultos com linfoma de Hodgkin clássico com PET/CT-FDG e biópsia osteomedular basais emparelhadas, para avaliar a concordância entre os dois métodos e o significado clínico da discordância. Nenhum doente teve PET medular negativa com biópsia positiva; a discordância foi sempre PET+/biópsia−, associada a doença mais inflamatória e IPS mais alto, mas sem diferença significativa em falência terapêutica, PFS ou OS. O padrão de captação (difuso vs focal/multifocal) e o contexto clínico ajudam a interpretar a PET medular positiva com biópsia negativa; o reduzido número de eventos impede conclusões prognósticas firmes. Dados retirados do resumo (texto integral não acessível daqui).",
+   "points": [
+    "102 de 109 doentes com resultados basais emparelhados: 65,7% PET−/BMB−, 7,8% PET+/BMB+ e 26,5% PET+/BMB−; nenhum caso PET−/BMB+.",
+    "Concordância global de 73,5% (κ de Cohen = 0,280; McNemar exato p < 0,001 para a assimetria).",
+    "Grupo PET+/BMB− com hemoglobina e albumina mais baixas e VS, PCR e IPS mais altos do que o grupo PET−/BMB−.",
+    "Sem diferença na falência terapêutica (p = 0,494), PFS (p = 0,758) ou OS (p = 0,717) entre grupos.",
+    "Em 24 doentes com padrão classificável, hemoglobina mediana 10,5 g/dL na captação difusa vs 12,3 g/dL na focal/multifocal (p = 0,031)."
+   ]
+  },
   {
    "id": "cancers-radiomics-ahod0831-hl",
    "title": "Radiómica da PET-FDG basal prevê a resposta no linfoma de Hodgkin de alto risco: análise do ensaio de fase III AHOD0831",
@@ -639,5 +660,5 @@
    ]
   }
  ],
- "stamp": "2026-11-23T09:50"
+ "stamp": "2026-11-25T09:35"
 }
