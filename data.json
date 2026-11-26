@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "edition": "Semana 48 · 2026",
  "guidelines": [
   {
@@ -105,6 +105,69 @@
   }
  ],
  "lymphoma": [
+  {
+   "id": "ejnmmi-interim-tlg-pd1-chl-2026",
+   "title": "Carga metabólica residual na PET interina complementa a avaliação categórica no linfoma de Hodgkin clássico tratado com anti-PD-1 (coorte da vida real)",
+   "orig": "Interim residual metabolic burden complements categorical PET assessment in a real-world cohort of PD-1-treated classical Hodgkin lymphoma",
+   "journal": "Eur J Nucl Med Mol Imaging",
+   "date": "2026-11-25",
+   "type": "Estudo retrospetivo unicêntrico (landmark)",
+   "authors": "Wu Z, Zhang X, Yan J, Deng Y, Lin Z, Qin C, Lan X",
+   "doi": "10.1007/s00259-026-08275-6",
+   "url": "https://doi.org/10.1007/s00259-026-08275-6",
+   "pdf": "",
+   "oa": false,
+   "summary": "Grupo de Medicina Nuclear de Wuhan (Union Hospital) analisou PET/CT-FDG basal e interina em doentes com linfoma de Hodgkin sob terapêutica baseada em anti-PD-1, onde padrões de resposta imunomediados dificultam a leitura. A classificação categórica (Lugano/LYRIC em 3 níveis), o Deauville e a variação do SUVmax não se associaram à PFS, ao passo que a carga residual quantitativa (TLG e MTV interinos) sim, sobretudo para separar risco entre doentes sem progressão definida. O ganho de discriminação é exploratório e precisa de validação prospetiva multicêntrica. Dados retirados do resumo (texto integral não acessível daqui).",
+   "points": [
+    "63 doentes; 15 eventos de PFS com seguimento mediano de 34,2 meses.",
+    "Lugano/LYRIC, grupos de Deauville e ΔSUVmax: sem associação estatística com a PFS.",
+    "TLG interino (log) — HR 1,97 por 1 DP (IC 95% 1,10–3,55; p = 0,023); MTV interino — HR 1,86 (IC 95% 1,14–3,04; p = 0,013).",
+    "Nos 54 doentes sem progressão definida: eventos em 8/25 com TLG interino alto vs 3/29 com TLG baixo.",
+    "C-index (aparente e corrigido para otimismo) mais alto com a carga residual, mas estimativas internas variáveis."
+   ]
+  },
+  {
+   "id": "mirt-mcl-pet-parameters-2026",
+   "title": "Valor prognóstico dos parâmetros da PET/CT-FDG no linfoma de células do manto: estudo retrospetivo unicêntrico",
+   "orig": "The Prognostic Value of 18F-FDG PET/CT Parameters in Mantle Cell Lymphoma: A Retrospective Single-Center Study",
+   "journal": "Mol Imaging Radionucl Ther",
+   "date": "2026-11-25",
+   "type": "Coorte retrospetiva (centro único)",
+   "authors": "Patır DÇ, Tunca EE, Mammadzade E, Demir D, Ozsan N, Hekimgil M, Töbü M, Argon AM",
+   "doi": "10.4274/mirt.galenos.2026.99710",
+   "url": "https://doi.org/10.4274/mirt.galenos.2026.99710",
+   "pdf": "",
+   "oa": true,
+   "summary": "Hematologia e Medicina Nuclear da Universidade Ege (Izmir) estudaram parâmetros semiquantitativos (SUV e normalizações) e volumétricos de corpo inteiro (tMTV, tTLG) na PET basal e interina de doentes com linfoma do manto recém-diagnosticado. Os parâmetros volumétricos interinos foram os que melhor previram a resposta, e tMTV e SUV normalizado à superfície corporal (SUVbsa) foram fatores prognósticos independentes para a PFS; nenhum parâmetro foi independente para a OS. Amostra pequena e unicêntrica. Online ahead of print; dados retirados do resumo, que não apresenta HR nem limiares.",
+   "points": [
+    "48 doentes com MCL de novo; 32 com PET/CT interina analisada.",
+    "Redução marcada de SUV, tTLG e tMTV entre a PET basal e a interina.",
+    "tTLG e tMTV interinos com melhor desempenho na previsão da resposta ao tratamento.",
+    "Análise multivariada (Cox): tMTV e SUVbsa como fatores independentes para a PFS; OS sem fator PET independente.",
+    "SUVbsa basal alto e SUV interino alto associados a pior sobrevivência (Kaplan-Meier)."
+   ]
+  },
+  {
+   "id": "curroncol-chcg-dlbcl-firstline-2026",
+   "title": "Recomendações do Canadian Hematology Consensus Group para o tratamento de 1.ª linha do linfoma difuso de grandes células B",
+   "orig": "Canadian Hematology Consensus Group (CHCG) Recommendations for First-Line Management of Diffuse Large B-Cell Lymphoma",
+   "journal": "Curr Oncol",
+   "date": "2026-10-23",
+   "type": "Consenso de peritos (Delphi modificado)",
+   "authors": "Shafey M, Keating MM, Owen C, Balitsky A, Bosch M, Fleury I, Forward N, Kansara R, Lemieux C, MacDonald D, Scott DW, Skrabek P, Stewart C, Sehn LH",
+   "doi": "10.3390/curroncol33110644",
+   "url": "https://doi.org/10.3390/curroncol33110644",
+   "pdf": "https://www.mdpi.com/1718-7729/33/11/644/pdf",
+   "oa": true,
+   "summary": "Painel nacional canadiano de hematologistas (sem Medicina Nuclear) formulou, por Delphi modificado, recomendações para a 1.ª linha do DLBCL: escolha do regime, intensidade, risco e profilaxia do SNC e avaliação de resposta. Para a PET, reforça a leitura por Lugano/Deauville, considera a PET interina sobretudo prognóstica e desaconselha escalar a terapêutica apenas por PET interina positiva; a PET de fim de tratamento é o momento decisivo. Indexado no PubMed esta semana (publicado a 23-10-2026); texto integral consultado no PMC.",
+   "points": [
+    "Pola-R-CHP recomendado para IPI 2–5 com subtipo ABC (ou não-GCB por imuno-histoquímica, se o perfil de expressão não estiver disponível).",
+    "Deauville 1–3 = PET negativa/CMR; 4–5 = positiva, a interpretar no contexto clínico; uso do Deauville recomendado com grau 1A.",
+    "PET interina positiva não deve motivar escalada isolada sem confirmação de doença refratária (base: ensaio PETAL); resposta metabólica parcial interina → completar o tratamento e reavaliar no fim.",
+    "Doença limitada favorável: abordagens abreviadas guiadas ou não por PET (FLYER; SWOG S1001 com PFS a 5 anos de 89% após CMR interina).",
+    "PET de fim de tratamento com Deauville 4–5: excluir falso positivo (biópsia ou repetição a curto prazo); RT de consolidação em casos selecionados; sem vigilância imagiológica de rotina após CMR (grau 1A)."
+   ]
+  },
   {
    "id": "cancers-bm-discordance-chl-2026",
    "title": "Envolvimento medular no linfoma de Hodgkin clássico na era da PET/CT: discordância biópsia–PET, correlações clínicas e resultados",
@@ -660,5 +723,5 @@
    ]
   }
  ],
- "stamp": "2026-11-25T09:35"
+ "stamp": "2026-11-26T09:33"
 }
