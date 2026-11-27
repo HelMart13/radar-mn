@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "edition": "Semana 48 · 2026",
  "guidelines": [
   {
@@ -105,6 +105,27 @@
   }
  ],
  "lymphoma": [
+  {
+   "id": "bjh-flipi-m-tmtv-fl-2026",
+   "title": "Novo modelo prognóstico para o linfoma folicular na era do rituximab: FLIPI combinado com o TMTV da PET basal (FLIPI-M)",
+   "orig": "A new prognostic stratification model for follicular lymphoma in the rituximab era",
+   "journal": "Br J Haematol",
+   "date": "2026-11-25",
+   "type": "Coorte retrospetiva bicêntrica (desenvolvimento + validação externa)",
+   "authors": "Wang Y, Wang M, Liu J, Lv J, Chen J, Zheng C, Gao X, Cheng S, et al.; Li N, Liu W",
+   "doi": "10.1111/bjh.70974",
+   "url": "https://doi.org/10.1111/bjh.70974",
+   "pdf": "",
+   "oa": false,
+   "summary": "Equipas de Linfoma e de Medicina Nuclear do Peking University Cancer Hospital, com validação em Zhengzhou, construíram o FLIPI-M, que junta ao FLIPI o volume tumoral metabólico total (TMTV) da PET/CT-FDG basal com limiar de 510 cm³. O TMTV acrescentou informação prognóstica ao FLIPI, sobretudo nos doentes com FLIPI 2–3, onde isolou um subgrupo de muito alto risco; a discriminação manteve-se na coorte de validação externa. Desenho retrospetivo; dados retirados do resumo (texto integral não acessível daqui), sem HR nem C-index disponíveis.",
+   "points": [
+    "300 doentes com LF graus 1–3A: 155 na coorte de desenvolvimento e 145 na de validação independente.",
+    "Limiar de TMTV basal: 510 cm³.",
+    "Seguimento mediano de 85,3 meses; PFS mediana 94,1 meses e OS mediana não atingida (coorte de desenvolvimento).",
+    "PFS aos 7 anos: 65,6% (baixo), 56,6% (intermédio) e 11,4% (alto risco FLIPI-M); p < 0,001.",
+    "No FLIPI 2–3, o TMTV identificou um subgrupo com PFS mediana de apenas 1,56 anos."
+   ]
+  },
   {
    "id": "ejnmmi-interim-tlg-pd1-chl-2026",
    "title": "Carga metabólica residual na PET interina complementa a avaliação categórica no linfoma de Hodgkin clássico tratado com anti-PD-1 (coorte da vida real)",
@@ -723,5 +744,5 @@
    ]
   }
  ],
- "stamp": "2026-11-26T09:33"
+ "stamp": "2026-11-27T09:33"
 }
